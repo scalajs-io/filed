@@ -1,0 +1,9 @@
+{
+  "name": "filed-scalajs",
+  "version": "7.4.0",
+  "private": true,
+  "dependencies": {
+    "filed": "^0.1.0",
+    "source-map": "^0.5.6"
+  }
+}
