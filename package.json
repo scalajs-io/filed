@@ -1,6 +1,6 @@
 {
-  "name": "filed-scalajs",
-  "version": "7.4.0",
+  "name": "filed-sjs",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "filed": "^0.1.0",
