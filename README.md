@@ -11,7 +11,7 @@ file isn't there it will just be created.
 
 ### Build Requirements
 
-* [SBT v0.13.13](http://www.scala-sbt.org/download.html)
+* [SBT v0.13.16](http://www.scala-sbt.org/download.html)
 
 
 ### Build/publish the SDK locally
@@ -68,7 +68,7 @@ Http.createServer((req, resp) => Filed("/data.json").pipe(resp))
 To add the `Filed` binding to your project, add the following to your build.sbt:  
 
 ```sbt
-libraryDependencies += "io.scalajs.npm" %%% "filed" % "0.4.0"
+libraryDependencies += "io.scalajs.npm" %%% "filed" % "0.4.1"
 ```
 
 Optionally, you may add the Sonatype Repository resolver:
