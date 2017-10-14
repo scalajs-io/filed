@@ -68,7 +68,7 @@ Http.createServer((req, resp) => Filed("/data.json").pipe(resp))
 To add the `Filed` binding to your project, add the following to your build.sbt:  
 
 ```sbt
-libraryDependencies += "io.scalajs.npm" %%% "filed" % "0.4.1"
+libraryDependencies += "io.scalajs.npm" %%% "filed" % "0.4.2"
 ```
 
 Optionally, you may add the Sonatype Repository resolver:

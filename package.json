@@ -1,6 +1,6 @@
 {
   "name": "filed-sjs",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "private": true,
   "dependencies": {
     "filed": "^0.1.0",
